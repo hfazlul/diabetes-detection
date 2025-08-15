@@ -3,7 +3,7 @@ import requests
 import streamlit as st
 
 # Set API URL (change here if needed)
-API_URL = "http://localhost:8000"
+API_URL = "https://diabetes-detection-1.onrender.com"
 
 st.title("Diabetes Prediction App")
 
